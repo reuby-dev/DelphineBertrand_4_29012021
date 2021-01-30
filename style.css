@@ -1054,7 +1054,7 @@ h4 {
 
 /*Classes ajoutées */
 .presentation {
-    font-size: 19px;
+    font-size: 19px!important;
 } 
 
 .contact-us {
