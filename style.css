@@ -786,7 +786,7 @@ h4 {
 }
 
 .tc-white {
-    color: white!important;
+    color: #F7B697!important;
     position: relative;
     text-align: center;
 }
@@ -1062,4 +1062,8 @@ h4 {
 .contact-us {
     font-size: 20px;
     font-weight: 700;
+}
+
+.text-white {
+    color:white!important;
 }
