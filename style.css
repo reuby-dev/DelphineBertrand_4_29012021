@@ -13,6 +13,10 @@ button {
     outline: none!important;
 }
 
+img {
+    margin: 0 auto;
+}
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
