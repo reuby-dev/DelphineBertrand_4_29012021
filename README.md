@@ -1,6 +1,8 @@
 # La chouette agence
 Troisième projet réalisé dans le cadre de ma formation Développeur web Openclassroom. Le but était d'optimiser un site web déjà existant sur le plan du SEO, de l'accessibilité, mais aussi sur les performances de chargement des pages.
 
+![image](https://user-images.githubusercontent.com/74512723/110956765-4185b680-834b-11eb-8059-337fcc7f1ffa.png) ![image](https://user-images.githubusercontent.com/74512723/110956819-5104ff80-834b-11eb-8e07-95c6028e5fc4.png)
+
 # Identité
 La chouette agence est une grande agence de web design basée à Lyon.
 
